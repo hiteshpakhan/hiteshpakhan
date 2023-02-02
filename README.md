@@ -6,6 +6,7 @@
 - 👀 GIT HUB : https://github.com/hiteshpakhan
 
 # MY PROJECTS
-* 1 ROBOFRIENDS : https://hiteshpakhan.github.io/project_monsters_rolodex/
-* 2 SMART BRAIN : https://smart-brain-011.herokuapp.com/
-* 3 Quote Generator : https://hiteshpakhan.github.io/Quote_Generator_small_project1/
+* 1 DallE Clone : https://hitesh-pakhan-dalle.netlify.app/
+* 2 ROBOFRIENDS : https://hiteshpakhan.github.io/project_monsters_rolodex/
+* 3 SMART BRAIN : https://smart-brain-011.herokuapp.com/
+* 4 Quote Generator : https://hiteshpakhan.github.io/Quote_Generator_small_project1/
