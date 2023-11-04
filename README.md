@@ -1,4 +1,4 @@
-![image](https://github.com/hiteshpakhan/hiteshpakhan/assets/77678075/93ce0fe1-9e81-413e-885d-b8f9fc4a10b9)- 👋 Hi, I’m HITESH PAKHAN
+👋 Hi, I’m HITESH PAKHAN
 - 🌱 I’m have completed Computer Science and Engineering at GNIT Collage Nagpur
 - ☎️ Mobile Number : 9637754757 / 8698506731
 - 📫 GMAIL : hitesh5pakhan@gmail.com
