@@ -18,3 +18,4 @@
 * 10 ROBOFRIENDS             : https://hiteshpakhan.github.io/project_monsters_rolodex/
 * 11 SMART BRAIN             : https://smart-brain-011.herokuapp.com/
 * 12 Quote Generator         : https://hiteshpakhan.github.io/Quote_Generator_small_project1/
+* 13 Docs Dragable           : https://resonant-praline-626ed9.netlify.app/
