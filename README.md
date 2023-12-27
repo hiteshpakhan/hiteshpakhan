@@ -4,7 +4,7 @@
 - 📫 GMAIL : hitesh5pakhan@gmail.com
 - 👀 LINKDIN : https://www.linkedin.com/in/hitesh-pakhan-501451171
 - 👀 GIT HUB : https://github.com/hiteshpakhan
-- 🕵️‍♀️ Portfolio: ekka.me/hiteshpakhan
+- 🕵️‍♀️ Portfolio: https://ekka.me/hiteshpakhan
 
 # MY PROJECTS
 * 1 MERN Blog Website       : https://mern-blog-website-frontend.vercel.app/
