@@ -1,10 +1,11 @@
-👋 Hi, I’m HITESH PAKHAN
+![image](https://github.com/hiteshpakhan/hiteshpakhan/assets/77678075/21b01120-70bd-4413-a5ed-0f9a765c732a)👋 Hi, I’m HITESH PAKHAN
 - 🌱 I’m have completed Computer Science and Engineering at GNIT Collage Nagpur
 - ☎️ Mobile Number : 9637754757 / 8698506731
 - 📫 GMAIL : hitesh5pakhan@gmail.com
 - 👀 LINKDIN : https://www.linkedin.com/in/hitesh-pakhan-501451171
 - 👀 GIT HUB : https://github.com/hiteshpakhan
 - 🕵️‍♀️ Portfolio: https://ekka.me/hiteshpakhan
+
 
 # MY PROJECTS
 * 1 MERN Blog Website       : https://mern-blog-website-frontend.vercel.app/
