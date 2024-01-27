@@ -8,7 +8,7 @@
 
 
 # MY PROJECTS
-* 0 Netflix Clone           : https://netflix-hiteshpakhan.web.app/
+* 0 Netflix Clone           : https://hitesh-appclone.web.app
 * 1 MERN Blog Website       : https://mern-blog-website-frontend.vercel.app/
 * 2 Chat App                : https://chat-app-socketio-frontend.vercel.app/
 * 3 Big MERN Authentication : https://mern-big-authentication-frontend.vercel.app/
