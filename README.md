@@ -8,17 +8,17 @@
 
 
 # MY PROJECTS
-* 0 Netflix Clone             : https://hitesh-appclone.web.app
+* 0 fullstack Netflix Clone   : https://hitesh-appclone.web.app
 * 1 MERN Blog Website         : https://mern-blog-website-frontend.vercel.app/
 * 2 food order service app    : https://food-order-one-ebon.vercel.app/
 * 3 Backend with Typescript   : https://github.com/hiteshpakhan/RestAPI-node-typescript
 * 4 Backend Prisma PostgresSQL: https://github.com/hiteshpakhan/prisma-postgresSQL-ExpressJS-backend.git
-* 5 Chat App                  : https://chat-app-socketio-frontend.vercel.app/
+* 5 full stack Chat App       : https://chat-app-socketio-frontend.vercel.app/
 * 6 Big MERN Authentication   : https://mern-big-authentication-frontend.vercel.app/
-* 7 ToDo App with Typescript  : https://fullstack-to-do-frontend.vercel.app/
+* 7 MERN TODOwith Typescript  : https://fullstack-to-do-frontend.vercel.app/
 * 8 small MERN login          : https://authmernfrontend.vercel.app/
 * 9 to do app                 : https://code-with-harry-todo-nrkzf1xw6-hiteshpakhan.vercel.app/?vercelToolbarCode=88kvAPbnXfOOSHj
-* 10 DallE Clone              : https://hitesh-pakhan-dalle.netlify.app/
+* 10 MERN DallE Clone         : https://hitesh-pakhan-dalle.netlify.app/
 * 11 Chat GPT clone           : https://hitesh-pakhan-chatgptclone.vercel.app/
 * 12 ROBOFRIENDS              : https://hiteshpakhan.github.io/project_monsters_rolodex/
 * 13 SMART BRAIN              : https://smart-brain-011.herokuapp.com/
