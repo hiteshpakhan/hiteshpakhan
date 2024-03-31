@@ -8,7 +8,7 @@
 
 
 # MY PROJECTS
-* 0 fullstack Netflix Clone   : https://hitesh-appclone.web.app
+* 0 fullstack Netflix Clone   : https://hiteshsiteclone.vercel.app/
 * 1 MERN Blog Website         : https://mern-blog-website-frontend.vercel.app/
 * 2 food order service app    : https://food-order-one-ebon.vercel.app/
 * 3 Backend with Typescript   : https://github.com/hiteshpakhan/RestAPI-node-typescript
